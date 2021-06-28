@@ -9,7 +9,7 @@
  
  
 # Script run termux
-```  
+
 pkg update
  
 pkg upgrade
@@ -51,7 +51,6 @@ If we have python2 script then do this
 python2 cython.py file.py '$'
 
 
-```
  
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
