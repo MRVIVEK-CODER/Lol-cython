@@ -29,7 +29,7 @@ Now There Are Two types of Encryption
 # First with '+'
 If we have python script then do this
 
-python cython.py file.py
+python cython.py file.py '+'
 
 If we have python2 script then do this
 
@@ -38,7 +38,7 @@ python2 cython.py file.py '+'
 # Second with '$'
 If we have python script then do this
 
-python cython.py file.py '+'
+python cython.py file.py '$'
 
 If we have python2 script then do this
 
