@@ -28,8 +28,7 @@ Now There Are Two types of Encryption
 
 # First with '+'
 
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/Lol-cython/blob/main/Screenshot_20210628-102343__01.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/MRVIVEK-CODER/Lol-cython/blob/main/Screenshot_20210628-102343__01.jpg" width="640" title="Menu" alt="Menu">
 
 If we have python script then do this
 
@@ -41,8 +40,7 @@ python2 cython.py file.py '+'
 
 # Second with '$'#
 
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/Lol-cython/blob/main/Screenshot_20210628-100314__01.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/MRVIVEK-CODER/Lol-cython/blob/main/Screenshot_20210628-100314__01.jpg" width="640" title="Menu" alt="Menu">
 
 If we have python script then do this
 
